@@ -1,0 +1,16 @@
+C:\Users\Lacey\workspace\Zoological\bin\Debug\net5.0\Zoological.exe
+C:\Users\Lacey\workspace\Zoological\bin\Debug\net5.0\Zoological.deps.json
+C:\Users\Lacey\workspace\Zoological\bin\Debug\net5.0\Zoological.runtimeconfig.json
+C:\Users\Lacey\workspace\Zoological\bin\Debug\net5.0\Zoological.runtimeconfig.dev.json
+C:\Users\Lacey\workspace\Zoological\bin\Debug\net5.0\Zoological.dll
+C:\Users\Lacey\workspace\Zoological\bin\Debug\net5.0\ref\Zoological.dll
+C:\Users\Lacey\workspace\Zoological\bin\Debug\net5.0\Zoological.pdb
+C:\Users\Lacey\workspace\Zoological\obj\Debug\net5.0\Zoological.csprojAssemblyReference.cache
+C:\Users\Lacey\workspace\Zoological\obj\Debug\net5.0\Zoological.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lacey\workspace\Zoological\obj\Debug\net5.0\Zoological.AssemblyInfoInputs.cache
+C:\Users\Lacey\workspace\Zoological\obj\Debug\net5.0\Zoological.AssemblyInfo.cs
+C:\Users\Lacey\workspace\Zoological\obj\Debug\net5.0\Zoological.csproj.CoreCompileInputs.cache
+C:\Users\Lacey\workspace\Zoological\obj\Debug\net5.0\Zoological.dll
+C:\Users\Lacey\workspace\Zoological\obj\Debug\net5.0\ref\Zoological.dll
+C:\Users\Lacey\workspace\Zoological\obj\Debug\net5.0\Zoological.pdb
+C:\Users\Lacey\workspace\Zoological\obj\Debug\net5.0\Zoological.genruntimeconfig.cache

@@ -1,6 +1,6 @@
 namespace Zoological
 {
-    public interface ISwiming
+    public interface ISwimming
     {
         void Swim();
     }

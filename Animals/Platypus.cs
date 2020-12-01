@@ -2,7 +2,7 @@ using System;
 
 namespace Zoological
 {
-    public class Platypus : IWalking, ISwiming
+    public class Platypus : IWalking, ISwimming
     {
         public void Walk()
         {

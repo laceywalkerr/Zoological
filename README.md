@@ -432,3 +432,17 @@ namespace Garage
 <br/>
 
 [ø](https://github.com/nashville-software-school/bangazon-inc/wiki/InterfaceStrategy)
+
+## Notes:
+
+to make program:
+```sh
+mkdir Zoological
+cd Zoological
+dotnet new console -n Zoological -o .
+```
+to run program:
+```
+dotnet run
+```
+

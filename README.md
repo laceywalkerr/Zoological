@@ -385,53 +385,9 @@ namespace Garage
 }
 ```
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-[ø](https://github.com/nashville-software-school/bangazon-inc/wiki/InterfaceStrategy)
+## Additional Resource:
+[InterfaceStrategy](https://github.com/nashville-software-school/bangazon-inc/wiki/InterfaceStrategy)
 
 ## Notes:
 
